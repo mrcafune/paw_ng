@@ -1,4 +1,5 @@
 # paw_ng
-Godot Game
+Pong styled game to learn Godot 4 Engine
 
-![image](https://github.com/mrcafune/paw_ng/assets/101951803/da4ff1f7-e0b7-473f-8b94-6f427b380224)
+![github](https://github.com/mrcafune/paw_ng/assets/101951803/08bc0ca5-f300-46f0-a7a9-566983337d24)
+
